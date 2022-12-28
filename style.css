@@ -1,0 +1,15 @@
+div{
+    width: 100%;
+}
+body{
+    text-align: center;
+}
+canvas{
+    border-radius: 25px;
+}
+h3{
+    font-family: audiowide;
+}
+p{
+    font-family: cursive;
+}
